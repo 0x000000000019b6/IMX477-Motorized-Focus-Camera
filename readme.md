@@ -1,6 +1,6 @@
 # IMX477-Motorized-Focus-Camera
 
-## Doc url: https://docs.arducam.com/Raspberry-Pi-Camera/Motorized-Focus-Camera/Quick-Start-Guide/IMX477-Motorized-Focus-Camera/
+### [Arducam Quick Start Guide](https://docs.arducam.com/Raspberry-Pi-Camera/Motorized-Focus-Camera/Quick-Start-Guide/IMX477-Motorized-Focus-Camera/)
 
 ## Install (Raspberry Pi OS 64-bit [Bookworm])
 
